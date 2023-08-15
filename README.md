@@ -5,8 +5,13 @@
 Welcome to my GitHub profile! I'm **Alexandre Alves**, and I'm passionate about the limitless possibilities that Machine Learning and Data Analysis offer in unraveling insights from complex datasets. With a strong foundation in both theoretical concepts and hands-on experience, I thrive on turning data into actionable knowledge.
 
 ## Stats
-![aalvesrpg's GitHub stats](https://github-readme-stats.vercel.app/api?username=aalvesrpg&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aalvesrpg&layout=compact)
+
+<a href="https://github.com/aalvesrpg/">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=aalvesrpg&show_icons=true&theme=radical" />
+</a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=aalvesrpg&layout=compact">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aalvesrpg&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 ## 🔬 Exploring the Art of Data
 From preprocessing to visualization, I revel in the process of transforming raw data into meaningful stories. Exploring trends, patterns, and outliers is where the magic begins.
