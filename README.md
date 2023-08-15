@@ -6,13 +6,6 @@ Welcome to my GitHub profile! I'm **Alexandre Alves**, and I'm passionate about 
 
 ## 📊 Stats
 
-<a href="https://github.com/aalvesrpg/">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=aalvesrpg&show_icons=true&theme=radical" />
-</a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=aalvesrpg&layout=compact">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aalvesrpg&layout=compact&langs_count=8&card_width=320" />
-</a>
-
 <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
   <a href="https://github.com/aalvesrpg/" style="flex: 1; margin: 10px;">
     <img height=200 style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api?username=aalvesrpg&show_icons=true&theme=radical" />
