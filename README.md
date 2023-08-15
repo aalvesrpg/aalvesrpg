@@ -13,6 +13,16 @@ Welcome to my GitHub profile! I'm **Alexandre Alves**, and I'm passionate about 
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aalvesrpg&layout=compact&langs_count=8&card_width=320" />
 </a>
 
+<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
+  <a href="https://github.com/aalvesrpg/" style="flex: 1; margin: 10px;">
+    <img height=200 style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api?username=aalvesrpg&show_icons=true&theme=radical" />
+  </a>
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=aalvesrpg&layout=compact" style="flex: 1; margin: 10px;">
+    <img height=200 style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aalvesrpg&layout=compact&langs_count=8&card_width=320" />
+  </a>
+</div>
+
+
 ## 🔬 Exploring the Art of Data
 From preprocessing to visualization, I revel in the process of transforming raw data into meaningful stories. Exploring trends, patterns, and outliers is where the magic begins.
 
