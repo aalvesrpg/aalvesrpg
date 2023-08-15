@@ -4,7 +4,7 @@
 
 Welcome to my GitHub profile! I'm **Alexandre Alves**, and I'm passionate about the limitless possibilities that Machine Learning and Data Analysis offer in unraveling insights from complex datasets. With a strong foundation in both theoretical concepts and hands-on experience, I thrive on turning data into actionable knowledge.
 
-## 📈 Stats
+## 📊 Stats
 
 <a href="https://github.com/aalvesrpg/">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=aalvesrpg&show_icons=true&theme=radical" />
