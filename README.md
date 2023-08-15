@@ -3,8 +3,8 @@
 ## 📈 Quantitative Trader Enthusiast | 🤖 Machine Learning Enthusiast | 📊 Data Analyst | 💡 AI Explorer | ⚙️ ML-Ops
 
 Welcome to my GitHub profile! I'm **Alexandre Alves**, and I'm passionate about the limitless possibilities that Machine Learning and Data Analysis offer in unraveling insights from complex datasets. With a strong foundation in both theoretical concepts and hands-on experience, I thrive on turning data into actionable knowledge.
-## Stats
 
+## Stats
 ![aalvesrpg's GitHub stats](https://github-readme-stats.vercel.app/api?username=aalvesrpg&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aalvesrpg&layout=compact)
 
