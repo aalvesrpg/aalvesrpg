@@ -1,19 +1,24 @@
-# Alexandre Alves
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hi+there!,+My+name+is+Alexandre+Alves+;I+am+a+Machine+Learning+Engineer;I+am+from+São+Paulo,+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-## 📈 Quantitative Trader Enthusiast | 🤖 Machine Learning Enthusiast | 📊 Data Analyst | 💡 AI Explorer | ⚙️ ML-Ops
+##
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=aalvesrpg&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Alexandre Alves github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aalvesrpg&layout=compact&hide_border=true&title_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" />
+</div>
+
+##
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aalvesrpg&bg_color=0d1117&color=ffffff&line=00bfbf&point=fff5f5&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+##
+<br></br>
+## 🤖 Machine Learning | ⚙️ ML-Ops | 📊 Data Analyst | 💡 AI Explorer | 📈 Quantitative Trader Enthusiast
 
 Welcome to my GitHub profile! I'm **Alexandre Alves**, and I'm passionate about the limitless possibilities that Machine Learning and Data Analysis offer in unraveling insights from complex datasets. With a strong foundation in both theoretical concepts and hands-on experience, I thrive on turning data into actionable knowledge.
 
-## 📊 Stats
-
-<div style="display: flex; justify-content: center; align-items: center; flex-wrap: nowrap;">
-  <a href="https://github.com/aalvesrpg/" style="flex: 1; margin: 10px;">
-    <img style="max-width: 100%; width: 100%; height: auto;" src="https://github-readme-stats.vercel.app/api?username=aalvesrpg&show_icons=true&theme=radical" />
-  </a>
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=aalvesrpg&layout=compact" style="flex: 1; margin: 10px;">
-    <img style="max-width: 100%; width: 100%; height: auto;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aalvesrpg&layout=compact&langs_count=8&card_width=320" />
-  </a>
-</div>
 
 ## 🔬 Exploring the Art of Data
 From preprocessing to visualization, I revel in the process of transforming raw data into meaningful stories. Exploring trends, patterns, and outliers is where the magic begins.
@@ -41,3 +46,10 @@ Feel free to reach out for discussions, collaborations, or just to geek out abou
 [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red)](https://www.youtube.com/your-channel-link)
 
 Let's shape the future with data-driven trading strategies and ML-Ops excellence! 🚀
+
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{aalvesrpg}/count.svg" /></p> 
+<br></div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
