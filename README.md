@@ -31,7 +31,7 @@ In the realm of Machine Learning Operations (ML-Ops), I'm dedicated to streamlin
 ## 🏦 Fintech Expertise
 Drawing from my experience at fintech leaders like Neon and Picpay, I've had the privilege to navigate the dynamic landscape of digital finance. Working with these innovative companies has given me a unique perspective on leveraging data to shape user experiences and drive financial innovation.
 
-## 📈 Pursuing Quantitative Finance
+## 📈 Quantitative Finance
 Inspired by my fintech journey, my sights are now set on the exciting world of quantitative finance. As a Quantitative Trader Enthusiast, I'm excited to blend my data expertise with financial models to make data-driven decisions that navigate the complexities of the financial markets.
 
 ## 🌐 Collaboration and Learning
